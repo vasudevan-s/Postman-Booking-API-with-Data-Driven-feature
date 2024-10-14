@@ -1,0 +1,24 @@
+[
+   {
+      "fname":"Victor",
+      "lname":"JVC",
+      "totalPrice":3000,
+      "depositPaid":true,
+      "bookingdates":{
+         "checkin":"2024-12-10",
+         "checkout":"2024-12-30"
+      },
+      "additionalNeed":"Breakfast"
+   },
+   {
+      "fname":"Nipon",
+      "lname":"Company",
+      "totalPrice":6000,
+      "depositPaid":false,
+      "bookingdates":{
+         "checkin":"2024-12-15",
+         "checkout":"2024-12-20"
+      },
+      "additionalNeed":"Dinner"
+   }
+]
